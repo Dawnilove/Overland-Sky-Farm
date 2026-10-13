@@ -13,6 +13,10 @@ Copyright (c) 2026 the Overland: Sky Farm author. All rights reserved.
 예외: 일부 동물 모델(말·소·돼지·양·라마·퍼그·얼룩말)은 Quaternius의 "Farm Animal Pack"으로,
 CC0 1.0(퍼블릭 도메인)으로 공개된 저작물입니다.
 
+플러그인: "오버랜드 플러그인 킷"과 그 안내서·예시는 오버랜드 플러그인을 만드는 목적으로 자유롭게
+사용하고, 수정하지 않은 상태로 다시 나눠 줄 수 있습니다. 사용자가 만든 플러그인의 권리는 만든 사람에게
+있습니다. 공식 DLC 파일은 위 제한(복제·재배포·역설계 금지)을 그대로 따릅니다.
+
 [English]
 All programs, code, 3D models, images and sounds contained in this repository and in the
 distributed files (Overland.exe and accompanying files) are the property of the author.
@@ -25,3 +29,7 @@ distributed files (Overland.exe and accompanying files) are the property of the 
 
 Exception: some animal models (horse, cow, pig, sheep, llama, pug, zebra) come from
 Quaternius "Farm Animal Pack", released under CC0 1.0 (public domain).
+
+Plugins: the "Overland Plugin Kit", its guide and examples may be used freely to create Overland
+plugins and may be shared unmodified. Plugins created by users belong to their creators.
+Official DLC files remain subject to the restrictions above.
